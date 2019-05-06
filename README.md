@@ -1,2 +1,3 @@
-# doplnovacka.py
+# doplnovacka
+
 ukol_python
